@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse de Henry
+Mi nombre es Renzo Barreto Ccencho
+Este es una prueba de como crear un repositorio y clonarlo desde Github a mi computadora
